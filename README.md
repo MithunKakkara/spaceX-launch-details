@@ -6,18 +6,18 @@
 - Go to the project directory and install dependencies:
 
 ```bash
-$ cd ssr && yarn install
+$ cd ssr && npm install
 ```
 
 Launch the server:
 
 ```bash
-$ yarn start
+$ npm run start
 ```
 Test Components:
 
 Now, the application is running at [http://localhost:3000](http://localhost:3000).
 
 ```bash
-$ yarn test
+$ npm run test
 ```
